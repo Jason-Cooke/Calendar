@@ -7,4 +7,4 @@ For project to use, just clone or download the project, then in shell=>
 
 2)node server
 
-After opening the url in browser, you will see the Calendar showing the current date.You can browse to any date in any year.
+After opening the url in browser, you will see the Calendar showing the current date.You can choose any date there.
