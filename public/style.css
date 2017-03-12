@@ -1,0 +1,37 @@
+	html                    { overflow-y:scroll; }
+        body                    { padding-top:50px; }
+        #todo-list              { margin-bottom:30px; }
+        .panelCus               { width:80%;margin: auto;}
+        .jumbotron              { width:60%;margin: auto;}
+        .months                 { margin-right: 10px; }
+        .dateChosen             { border: 1px solid #428bca;padding: 4px 12px;width: 60%;border-radius: 5px;
+                                  background-color: white;margin-left: 10%; }
+        br                      { display: block; }
+        .panel-body             {text-align: initial}
+        .downUp                 {float: right;margin-right: 10px;margin-top: 4px;font-size: 18px;cursor: pointer;}
+        .rows                   {columns: 3;-moz-columns: 3;margin-left: 10px;}
+        .rows2                  {columns: 7;-moz-columns: 7;margin-left: 10px;}
+        .monthFn                {cursor: pointer;}
+        .dateFn                 {cursor: pointer;}
+        .days                   {margin-left: 18px;}
+        .selectMonth            {margin-left: 12px;}
+        .glys                   {font-size: 14px;border: 1px solid white;padding: 6px;border-radius: 2px;                     margin-right: 5px;cursor: pointer;}
+        .allGly                 {margin-right: 16px;float: right;}
+        .whenData               {float: none;}
+        .selectDate             {font-size: 16px;color: rgba(0, 0, 0, 0.48);}
+        .remDate                {color: white;padding: 3px;background-color: rgba(0, 0, 0, 0.39);
+                                 border: 1px solid rgba(0, 0, 0, 0.39);border-radius: 20px;margin: 3px; }
+        .topGly                 {font-size: 15px; margin: 1px;float: right;cursor: pointer;}
+        .bothOpr                {display: inline-block;border: 1px solid rgba(0, 0, 0, 0.39);padding: 0px 5px;
+                                border-radius: 25px;}
+        .activeDate             {border: 1px solid #428bca;padding: 6px 10px;color: white !important;
+                                background-color: #428bca;
+                                 border-radius: 20px;margin-left: -10px;}
+        .otherDates             {color: cadetblue;background-color: white;border: none;}
+        .upDate                 {float: left;margin-top: 3px;color:rgba(0, 0, 0, 0.39);}
+        .downDate               {margin-left: -16px;margin-top: 16px;color:rgba(0, 0, 0, 0.39);}
+        .dateFn:hover          {border: 1px solid #428bca;border-radius: 20px;padding: 6px 10px;
+                                margin-left: -10px;}
+        .monthFn:hover         {color:#428bca;}
+        .downs                 {color:rgba(0, 0, 0, 0.39);}
+        .monthSel              {color:#428bca;}
